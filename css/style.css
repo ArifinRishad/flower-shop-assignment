@@ -100,3 +100,20 @@ h3 {
     width: 300px;
     margin-top: 80px;
 }
+/*suport*/
+.suport{
+    height: 200px;
+    width: 1250px;
+    background-color: rgb(207, 202, 202);
+   margin: 210px;
+   margin: auto;
+   align-items: center;
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-between;
+   color: rgb(53, 44, 44);
+   
+}
+.suport-img{
+ margin-left: 120px;
+}
