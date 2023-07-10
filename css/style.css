@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* header*/
+.header {
+    background-color: #fcbcc9;
+    height: 90vh;
+    width: 100%;
+}
+
+.header-total {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.header-titel {
+    font-size: 70px;
+    padding-left: 200px;
+    padding-top: 130px;
+    width: 60%;
+
+}
+
+.header-description {
+    font-size: 20px;
+    line-height: 25px;
+    width: 60%;
+    padding-left: 200px;
+    margin-top: 30px;
+}
+
+.header-btn {
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #ce546e;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 200px;
+    border: 0px;
+
+}
+
+.header-img {
+    height: 680px;
+    width: 480px;
+    padding-right: 180px;
+    padding-top: 30px;
+}
+/*Our Featured Flower*/
+.featured-flower-titel{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.featured-flower-discription{
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+}
