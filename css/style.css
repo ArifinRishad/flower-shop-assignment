@@ -182,3 +182,56 @@ span{
     margin-right: 250px;
     margin-top: 40px;
 }
+/*Letest Deal*/
+.letest-deal{
+    
+    background-image: url('../css/Rectangle\ 9.png');
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+    width:  1500px;
+    height:  500px;
+    background-repeat: no-repeat;
+    text-align: center;  
+}
+.letest-deal-titel{
+    font-size: 50px;
+    padding-top: 130px;
+}
+.letest-deal-text{
+    font-size: 25px;
+    margin-top: 5px;
+    color: rgb(71, 57, 57);
+}
+.letest-deal-subscrib{
+    display: flex;
+    gap: 10px;
+    padding-left: 250px;
+}
+.letest-deal-email{
+    height: 45px;
+    width: 700px;
+    border-radius: 10px ;
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.subscrib-btn{
+    padding: 12px 40px;
+    border-radius: 5px;
+    background-color: #ce546e;
+    color: white;
+    font-size: 15px;
+    margin-top: 30px;  
+    border: 0px;
+    font-size: 25px;
+}
+/*footer*/
+footer{
+    background-color: #111010;
+    height: 50vh;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}
